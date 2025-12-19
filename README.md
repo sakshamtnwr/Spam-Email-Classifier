@@ -20,8 +20,8 @@ The classifier processes email text, converts it into numerical features, and tr
 
 ## Structure
 Spam-Email-Classifier/
-├── spam.csv # Dataset containing emails and labels
-├── model.pkl # Trained machine learning model
-├── vectorizer.pkl # Saved vectorizer for converting text to numerical features
-├── minor_project.ipynb # Jupyter notebook with the code and training process
-└── README.md # This file
+─ spam.csv # Dataset containing emails and labels
+─ model.pkl # Trained machine learning model
+─ vectorizer.pkl # Saved vectorizer for converting text to numerical features
+─ minor_project.ipynb # Jupyter notebook with the code and training process
+─ README.md # This file
